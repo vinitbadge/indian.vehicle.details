@@ -1,0 +1,35 @@
+{
+  "name": "node.ematrix.assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagde007/node.ematrix.assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagde007/node.ematrix.assignment/issues"
+  },
+  "homepage": "https://github.com/bagde007/node.ematrix.assignment#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bcryptjs": "^2.4.3",
+    "cheerio": "^1.0.0-rc.3",
+    "cheerio-eq": "^1.0.1",
+    "config": "^3.2.4",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.7.12",
+    "request": "^2.88.0",
+    "tesseract.js": "^1.0.19",
+    "tesseract.js-core": "^1.0.2"
+  }
+}
